@@ -34,18 +34,6 @@ Uses SharedPreferences
 Works on real devices (Samsung A33, Xiaomi, Vivo, etc.)
 Favorites saved even after the app is closed
 
-📄 Recipe Detail Page
-
-Shows:
-
-Image
-Ingredients
-Instructions
-Rating
-Cooking time
-Calories
-Bookmark button for favorite recipes
-
 📡 API Used
 DummyJSON Recipes API
 👉 https://dummyjson.com/recipes
